@@ -1,6 +1,6 @@
 # FML-Project-Detect-Sleep-States
 
-### A Kaggle competition: https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states
+### Kaggle competition: https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states
 ### Dataset: https://www.kaggle.com/datasets/carlmcbrideellis/zzzs-lightweight-training-dataset-target
 
 <br>
